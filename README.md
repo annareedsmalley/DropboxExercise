@@ -1,5 +1,6 @@
 # DropboxExercise
 
-Hours: 15
+Hours: 17
+Completed all required stories
 
-![alt text](DropBoxExercise2.gif)
+![alt text](DropBoxExercise3.gif)
