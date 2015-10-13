@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		D93E2B731BC78226006343B5 /* Welcome3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93E2B721BC78226006343B5 /* Welcome3ViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		D983FEF81BCCA89700D95454 /* CreateAccountScreen1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D983FEF71BCCA89700D95454 /* CreateAccountScreen1.swift */; settings = {ASSET_TAGS = (); }; };
+		D983FEFA1BCD777F00D95454 /* SignInScreen2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D983FEF91BCD777F00D95454 /* SignInScreen2ViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		D99AE31B1BCB369800A46486 /* CreateAccountRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99AE31A1BCB369800A46486 /* CreateAccountRootViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		D99AE31F1BCB4E0B00A46486 /* TroubleSigningInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99AE31E1BCB4E0B00A46486 /* TroubleSigningInViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		D99AE3211BCB60CC00A46486 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99AE3201BCB60CC00A46486 /* SettingsViewController.swift */; settings = {ASSET_TAGS = (); }; };
@@ -24,6 +25,7 @@
 /* Begin PBXFileReference section */
 		D93E2B721BC78226006343B5 /* Welcome3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Welcome3ViewController.swift; sourceTree = "<group>"; };
 		D983FEF71BCCA89700D95454 /* CreateAccountScreen1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountScreen1.swift; sourceTree = "<group>"; };
+		D983FEF91BCD777F00D95454 /* SignInScreen2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInScreen2ViewController.swift; sourceTree = "<group>"; };
 		D99AE31A1BCB369800A46486 /* CreateAccountRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountRootViewController.swift; sourceTree = "<group>"; };
 		D99AE31E1BCB4E0B00A46486 /* TroubleSigningInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TroubleSigningInViewController.swift; sourceTree = "<group>"; };
 		D99AE3201BCB60CC00A46486 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				D9B865FF1BC63D3800025612 /* AppDelegate.swift */,
 				D9B866011BC63D3800025612 /* ViewController.swift */,
 				D9B866031BC63D3800025612 /* Main.storyboard */,
+				D983FEF91BCD777F00D95454 /* SignInScreen2ViewController.swift */,
 				D983FEF71BCCA89700D95454 /* CreateAccountScreen1.swift */,
 				D99AE3221BCB76E800A46486 /* SignInRootViewController.swift */,
 				D99AE31E1BCB4E0B00A46486 /* TroubleSigningInViewController.swift */,
@@ -161,6 +164,7 @@
 				D9B866021BC63D3800025612 /* ViewController.swift in Sources */,
 				D99AE3211BCB60CC00A46486 /* SettingsViewController.swift in Sources */,
 				D99AE3231BCB76E800A46486 /* SignInRootViewController.swift in Sources */,
+				D983FEFA1BCD777F00D95454 /* SignInScreen2ViewController.swift in Sources */,
 				D99AE31F1BCB4E0B00A46486 /* TroubleSigningInViewController.swift in Sources */,
 				D93E2B731BC78226006343B5 /* Welcome3ViewController.swift in Sources */,
 				D9B866001BC63D3800025612 /* AppDelegate.swift in Sources */,

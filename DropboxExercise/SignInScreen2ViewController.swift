@@ -1,34 +1,23 @@
 //
-//  CreateAccountRootViewController.swift
+//  SignInScreen2ViewController.swift
 //  DropboxExercise
 //
-//  Created by Anna Smalley on 10/11/15.
+//  Created by Anna Smalley on 10/13/15.
 //  Copyright © 2015 Anna Smalley. All rights reserved.
 //
 
 import UIKit
 
-class CreateAccountRootViewController: UIViewController {
+class SignInScreen2ViewController: UIViewController {
 
-    override func viewDidAppear(animated: Bool) {
-        super.viewDidAppear(animated)
-        
-        print("view did appear")
-        
-        
-        
-        // Add your code here
-    }
-    
     override func viewDidLoad() {
         super.viewDidLoad()
-        performSegueWithIdentifier("AutoCreateAccountSegue", sender: self)
-        
+
         // Do any additional setup after loading the view.
     }
 
-    
-
+    @IBAction func GoBacktoPreviousScreen(sender: AnyObject) {navigationController!.popViewControllerAnimated(true)
+    }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
