@@ -1,3 +1,3 @@
 # DropboxExercise
 
-![alt text](DropBoxExercise2)
+![alt text](DropBoxExercise2.gif)
